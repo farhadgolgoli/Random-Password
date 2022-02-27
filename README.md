@@ -1,2 +1,2 @@
 # Random-Password
-www.farhadcoding.com
+Thias a Generate random password app, including : HTML5, CSS3, Javascript.
